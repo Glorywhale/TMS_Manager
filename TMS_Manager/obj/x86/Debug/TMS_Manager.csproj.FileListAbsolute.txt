@@ -1,0 +1,14 @@
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\TMS_Manager.exe
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\TMS_Manager.pdb
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.Form1.resources
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.Properties.Resources.resources
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.csproj.GenerateResource.Cache
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.exe
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.pdb
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\TMS_Manager.exe.config
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\System.Data.SQLite.dll
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\System.Data.SQLite.pdb
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\Config.xml
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\bin\Debug\BusinessRefinery.Barcode.Win.dll
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.frmModify.resources
+D:\작업\카이스트\스마트 테이블 프로그램\TMS_Manager\TMS_Manager\obj\x86\Debug\TMS_Manager.csprojResolveAssemblyReference.cache
